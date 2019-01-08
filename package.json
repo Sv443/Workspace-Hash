@@ -1,0 +1,33 @@
+{
+  "name": "workspace-hash",
+  "version": "0.1.0",
+  "description": "Creates a checksum hash for all files in your workspace",
+  "main": "workspace-hash.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sv443/workspace-hash.git"
+  },
+  "keywords": [
+    "sha256",
+    "hash",
+    "sha1",
+    "md5",
+    "encryption",
+    "crypt",
+    "ctypto",
+    "checksum"
+  ],
+  "author": "Sv443",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sv443/workspace-hash/issues"
+  },
+  "homepage": "https://github.com/Sv443/workspace-hash#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "folder-hash": "^2.1.2"
+  }
+}
