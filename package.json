@@ -1,5 +1,5 @@
 {
-  "name": "workspace-hash",
+  "name": "@sv443/workspace-hash",
   "version": "0.1.0",
   "description": "Creates a checksum hash for all files in your workspace",
   "main": "workspace-hash.js",
@@ -29,5 +29,8 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "folder-hash": "^2.1.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Sv443"
   }
 }
